@@ -1,6 +1,6 @@
 # FinanceLLM
 This Repository Helps in Understanding how to build the Finance LLM.
-This is forked from [FINQA Repo] (https://github.com/czyssrs/FinQA)
+This is forked from [FINQA Repo](https://github.com/czyssrs/FinQA)
 # Requirements
 ```
 pip install torch torchaudio torchvision torchtext torchdata
@@ -10,4 +10,4 @@ pip install tqdm
 pip install tabulate
 ```
 # Model
-You can download the trained model from [Gdrive Link](https://drive.google.com/file/d/18ZyZ86xQaAToNQpJKaOJ6PH06PMCW6SK/view?usp=sharing
+You can download the trained model from [Gdrive Link](https://drive.google.com/file/d/18ZyZ86xQaAToNQpJKaOJ6PH06PMCW6SK/view?usp=sharing)
