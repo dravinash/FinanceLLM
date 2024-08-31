@@ -1,5 +1,6 @@
 # FinanceLLM
-This Repository Helps in Understanding how to build the Finance LLM
+This Repository Helps in Understanding how to build the Finance LLM.
+This is forked from [FINQA Repo] (https://github.com/czyssrs/FinQA)
 # Requirements
 ```
 pip install torch torchaudio torchvision torchtext torchdata
